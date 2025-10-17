@@ -1,5 +1,4 @@
-# pengumuman-hmf
-[Uploading pengumuman_hmf.html…]()
+[pengumuman_hmf.html](https://github.com/user-attachments/files/22961948/pengumuman_hmf.html)
 
 <!DOCTYPE html>
 <html lang="id">
